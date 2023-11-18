@@ -3,9 +3,6 @@ package com.practice.questions.integers;
 import java.util.List;
 
 /**
- * 
- */
-/**
  * @author jivnesh
  *
  */
